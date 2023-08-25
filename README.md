@@ -22,7 +22,8 @@ In python webscraping can be done through the library selenium. selenium is a we
 Scarpped Website OLX and collected data of Used Cars
 
 # Project 3: Panic Disorder Diagnosis
-  Project Steps:1. Imported Libraries : Utilized some important libraries like pandas , NumPy, seaborn , matplotlib for data handling and analysis
+  Project Steps:
+  1. Imported Libraries : Utilized some important libraries like pandas , NumPy, seaborn , matplotlib for data handling and analysis
   2. Data Collection : data is collected from the website KAGGLE.
   2. Data Exploration : Explored and analyzed data through some methods in pandas like describe,info etc
   3. Data Analysis : Analyzed each feature and their effects on output variable using matplotlib, seaborn
